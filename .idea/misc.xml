@@ -17,7 +17,7 @@
     </option>
   </component>
   <component name="ProjectKey">
-    <option name="state" value="project://5a914500-4b79-40c5-a56b-7ff5d8c61850" />
+    <option name="state" value="git@bitbucket.org:farmers/sms-sender.git" />
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" assert-keyword="true" jdk-15="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
