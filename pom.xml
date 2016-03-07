@@ -21,7 +21,7 @@
     <distributionManagement>
         <repository>
             <id>repo</id>
-            <url>https://github.com/farmers/sms-sender/raw/master/</url>
+            <url>https://github.com/farmers/sms-sender/raw/master/snapshots</url>
         </repository>
 
     </distributionManagement>
